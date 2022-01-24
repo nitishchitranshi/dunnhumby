@@ -1,0 +1,3 @@
+cd dunnhumby/terraform
+terraform plan
+terraform apply
